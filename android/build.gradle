@@ -22,7 +22,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    namespace "com.hubermose.flutter_screen_wake"
+    namespace "br.com.erickhaendel.flutter_screen_wake"
     compileSdkVersion 30
 
     defaultConfig {
